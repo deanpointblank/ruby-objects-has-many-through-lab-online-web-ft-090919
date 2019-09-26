@@ -23,6 +23,7 @@ class Patient
   end
   
   def doctors
+    appointments.collect
   end
   
 end
